@@ -1,4 +1,4 @@
-# Note: Please check the rewritten version of PizzaQL (currently WIP): https://github.com/pizzaql/next
+# Note: Please check the rewritten version of Pizza (currently WIP): https://github.com/pizzaql/next
 ---
 
 # [![PizzaQL](media/logo/horizontal-scaled.png)](https://github.com/pizzaql/pizzaql)
